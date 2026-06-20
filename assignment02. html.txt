@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h1>Semantic Tags in HTML</h1>
+        <p>
+            Semantic tags in HTML are elements that clearly describe their meaning to both the browser and the developer. These tags provide information about the type of content they contain, making it easier for search engines and assistive technologies to understand the structure and purpose of the webpage. Examples of semantic tags include <header>, <nav>, <main>, <article>, <section>, <aside>, and <footer>.
+        </p>
+    </div>
+    <div>
+        <h1>Advantages of Using Semantic Tags</h1>
+        <p>
+            1. Improved Accessibility: Semantic tags help screen readers and other assistive technologies understand the structure of the webpage, making it more accessible to users with disabilities.
+            2. Better SEO: Search engines can better understand the content and structure of a webpage when semantic tags are used, which can improve search engine rankings.
+            3. Easier Maintenance: Semantic tags provide a clear structure to the HTML document, making it easier for developers to maintain and update the code.
+            4. Enhanced Readability: Semantic tags make the HTML code more readable and understandable for developers, as they clearly indicate the purpose of each section of content.
+        </p>
+    </div>
+    <header>
+        <h1>using header</h1>
+        <h2>list the top hero in tamil industry</h2>
+        <ul>
+            <li> <a href="vijay.html">Vijay</a></li>
+              <li> <a href="surya.html">Surya</a></li>
+                <li> <a href="ajith.html">Ajith</a></li>
+                    <li> <a href="karthi.html">Karthi</a></li>
+                        <li> <a href="dhanush.html">Dhanush</a></li>
+        </ul>
+    </header>
+    main>
+        <hr>
+        <articleid="vijay">
+            <h2>about vijay</h2>
+            <section>
+                <h3>Introduction</h3>
+                <p>
+                    about vijay Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, iusto est incidunt blanditiis, ut ea saepe cupiditate nemo magni vero nobis quo sequi ullam, voluptas temporibus labore esse iste facere.
+                </p>
+            </section>
+        </article>
+    </main>
+    <h1>image of vijay</h1>
+    <figure>
+        <img src="vijay1.jpg" alt="vijay" width="300px" height="200px">
+        <figcaption> vijay </figcaption>
+    </figure>
+</body>
+</html>
+
+
+
+
+
+
+result:
+
+1.Semantic Tags in HTML
+Semantic tags in HTML are elements that clearly describe their meaning to both the browser and the developer. These tags provide information about the type of content they contain, making it easier for search engines and assistive technologies to understand the structure and purpose of the webpage. Examples of semantic tags include
+
+2.Advantages of Using Semantic Tags
+ Improved Accessibility: Semantic tags help screen readers and other assistive technologies understand the structure of the webpage, making it more accessible to users with disabilities. 2. Better SEO: Search engines can better understand the content and structure of a webpage when semantic tags are used, which can improve search engine rankings. 3. Easier Maintenance: Semantic tags provide a clear structure to the HTML document, making it easier for developers to maintain and update the code. 4. Enhanced Readability: Semantic tags make the HTML code more readable and understandable for developers, as they clearly indicate the purpose of each section of content.
+
+
+
